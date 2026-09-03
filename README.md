@@ -1,9 +1,8 @@
 # 👋 Hola soy Guillermo Jiménez López
 
-### FullStack Developer · Software Engineer · Technology Enthusiast
+### Desarrollador FullStack · Ingeniero de Software · Entusiasta de la tecnología
 
-> I build digital experiences by combining software,
-> architecture, design and technology.
+> Creo experiencias digitales combinando software, arquitectura, diseño y tecnología.
 
 💻 FullStack Development  
 ⚡ SPA · PWA · Modern Web  
